@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
 }
 
 code {
@@ -15,4 +16,16 @@ code {
 .out {
   color: red;
   text-decoration: line-through;
+}
+
+.high {
+  color: green;
+}
+
+.medium {
+  color: orange;
+}
+
+.low {
+  color: red;
 }
